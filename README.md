@@ -86,14 +86,6 @@ Use the [Issues](https://github.com/Dkdndje/DroidDeck-Mali-GPU/issues) page to r
 
 Community reports are valuable. Please provide reproducible steps, exact versions, logs with sensitive information removed, and both successful and unsuccessful results. Avoid describing an untested configuration as working.
 
-## Contributors
-
-- **Antigravity** — AI-assisted development and project support
-- **Claude** — AI-assisted development and review
-- **ChatGPT** — AI-assisted development, documentation, and troubleshooting
-
-These are project credit acknowledgements, not GitHub account-level contributors unless they contribute through commits or pull requests.
-
 ## License
 
 No project license has been added yet. Unless a license is added, the contents are not automatically granted an open-source reuse license. Check the licenses of DroidDeck, driver packages, and any third-party tools separately.
